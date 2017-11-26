@@ -1,11 +1,12 @@
-# Monero GUI
+# WMXMR GUI
 
 Copyright (c) 2014-2017, The Monero Project
+Copyright (c) 2017-2018, The WPXMR Project
 
 ## Development Resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
+- Web: [wpxmr.com](https://wpxmr.com)
+- Forum: [satoshiroller.com/groups](https://satoshiroller.com/groups)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
 - Github: [https://github.com/monero-project/monero-core](https://github.com/monero-project/monero-core)
 - IRC: [#monero-dev on Freenode](irc://chat.freenode.net/#monero-dev)
